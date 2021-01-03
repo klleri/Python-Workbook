@@ -1,2 +1,2 @@
 # Python-Workbook
-resolving The Python Workbook exercices.
+Resolving The Python Workbook exercices.
